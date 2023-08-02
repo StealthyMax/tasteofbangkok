@@ -1,0 +1,13 @@
+body {
+  background-color: #a51931;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#menu {
+  font-size: 20px;
+  color: #f4f5f8;
+}
+
+#menu img {
+  border: 5px solid #2d2a4a;
+}
