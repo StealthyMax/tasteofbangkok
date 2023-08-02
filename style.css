@@ -1,0 +1,118 @@
+.title {
+  font-size: 90px;
+  padding-left: 25px;
+  padding-top: 2px;
+  color: #f4f5f8;
+  border-bottom: 50px solid;
+  border-color: #2d2a4a;
+  border-width: 25px;
+  line-height: 125px;
+  margin-left: -8px;
+  margin-right: -8px;
+  margin-top: 1px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  background-color: #a51931;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#line {
+  background-color: #2d2a4a;
+  height: 1000px;
+  margin: 0 auto;
+  margin-top: -80px;
+  width: 25px;
+}
+
+#footer {
+  border-bottom: 25px solid #2d2a4a;
+  border-width: 25px;
+  margin-left: -50px;
+  margin-right: -50px;
+}
+
+#menu h1 {
+  margin-top: -950px;
+  margin-left: 350px;
+  font-size: 45px;
+  color: #f4f5f8;
+}
+
+#menu {
+  font-size: 20px;
+  color: #f4f5f8;
+}
+
+#menu img {
+  border: 5px solid #2d2a4a;
+}
+
+.items {
+  margin-left: 275px;
+  margin-top: -150px;
+}
+
+#second {
+  margin-top: 125px;
+}
+
+#third {
+  margin-left: 275px;
+  margin-top: -135px;
+}
+
+#fourth {
+  margin-top: 110px;
+}
+
+#fifth {
+  margin-left: 275px;
+  margin-top: -150px;
+}
+
+#sixth {
+  margin-top: 120px;
+}
+
+#seventh {
+  margin-left: 275px;
+  margin-top: -135px;
+}
+
+.links {
+  margin-left: 760px;
+  margin-top: -135px;
+  position: absolute;
+  text-decoration: none;
+  color: #2d2a4a;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+#loc {
+  margin-left: 840px;
+}
+
+.links:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.links:active {
+  color: #a51931;
+  text-decoration: wavy;
+}
+
+.contact-title {
+  float: right;
+  margin-right: 250px;
+  color: white;
+  font-size: 40px;
+  margin-top: -5px;
+}
+
+#aboutus {
+  font-size: 20px;
+}
